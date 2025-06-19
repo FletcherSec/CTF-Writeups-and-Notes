@@ -18,7 +18,7 @@ And that's what I did, after attempting some pdf cracking shortcuts like [qpdf] 
 redactable.pdf  redact.hash
 ```
 
-With I decided to first try `rockyou.txt` wordlist, as it contains many of the most common passwords and is frequently used in CTFs.
+Using john and the hash I just got, I needed a wordlist to hash against my pdf internal hash. I decided to first try `rockyou.txt` wordlist, as it contains many of the most common passwords and is frequently used in CTFs.
 
 ```
 ┌──(fletcher㉿fletcher)-[~/Downloads/CyberGames2025/Forensics/Redactable]
