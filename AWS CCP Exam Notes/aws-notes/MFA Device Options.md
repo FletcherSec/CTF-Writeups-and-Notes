@@ -1,0 +1,6 @@
+- [[Virtual MFA device]]
+	- Phone auth apps
+- [[U2F]]: Universal 2nd Factor Security Key
+	- Yubikey
+- Hardware Key Fob MFA device
+- Hardware Key Fob MFA Device for AWS GovCloud (US)

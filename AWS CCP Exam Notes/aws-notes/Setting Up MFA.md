@@ -1,0 +1,1 @@
+Go to user in top right -> Security Credentials -> Assign MFA
