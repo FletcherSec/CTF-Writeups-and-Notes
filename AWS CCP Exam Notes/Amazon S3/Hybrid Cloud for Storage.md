@@ -1,0 +1,9 @@
+- AWS is pushing for "hybrid cloud"
+	- Part of your infrastructure is on-premise
+	- Part of your infrastructure is on the cloud
+- This can be due to:
+	- Long cloud migrations
+	- Security requirements
+	- Compliance requirements
+	- IT strategy
+- [[S3]] is a proprietary storage technology (Unlike EFS / NFS), so how do you expose the S3 data on-premise? Answer: AWS [[Storage Gateway]]

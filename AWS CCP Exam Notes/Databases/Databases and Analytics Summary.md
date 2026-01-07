@@ -1,0 +1,14 @@
+- Relational Databases - [[OLTP]]: [[RDS]] and [[Aurora]] (SQL)
+- Differences between [[Multi-AZ RDS]], [[Read Replicas]], [[Multi-Region RDS]]
+- In-memory Database: [[ElastiCache]]
+- Key/Value Database: [[DynamoDB]] (serverless) and DAX for cache
+- Warehouse - [[OLAP]]: [[Redshift]] (SQL)
+- Hadoop Cluster: [[EMR]]
+- [[Athena]]: query data on [[S3]] (serverless and SQL)
+- [[Quicksight]]: dashboards on your data (serverless)
+- [[DocumentDB]]: "[[Aurora]] for [[MongoDB]]" (JSON - NoSQL database)
+- [[Glue]]: (Extract Transform Load) ([[ETL]]) and Data Catalog service
+- [[Managed Blockchain]]: managed Hyperledger Fabric and Ethereum blockchains
+- Database Migration: [[DMS]]
+- [[Neptune]]: graph database
+- [[Timestream]]: time-series database

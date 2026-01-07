@@ -1,0 +1,5 @@
+- Direct Connect ([[DX]])
+	- Establish a physical connection between on-premises and AWS
+	- Connection is private, secure, and fast
+	- Goes over a private network
+	- Takes at least a month to establish

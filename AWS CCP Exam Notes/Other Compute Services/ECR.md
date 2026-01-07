@@ -1,0 +1,3 @@
+- Elastic Container Registry
+- Private Docker Registry on AWS
+- This is where you store your Docker images so they can run by [[ECS]] or [[Fargate]]

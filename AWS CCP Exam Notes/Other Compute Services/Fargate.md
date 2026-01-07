@@ -1,0 +1,4 @@
+- Launch Docker containers on AWS
+- like [[ECS]] BUT you do **NOT** need to provision the infrastructure (don't need to manage [[EC2]] instances) - much simpler
+- Serverless offering
+- AWS just runs containers for you based on the CPU / RAM you need

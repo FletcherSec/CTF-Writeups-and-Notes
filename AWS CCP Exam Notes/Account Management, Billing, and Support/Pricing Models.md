@@ -1,0 +1,4 @@
+- [[Pay as you go]]
+- [[Save when you reserve]] 
+- [[Pay less by using more]] - volume discounts
+- [[Pay less as AWS grows]]

@@ -1,0 +1,5 @@
+- Continuously monitor your cost and usage using ML to detect unusual spending
+- Learns your unique, historic spending patterns to detect one-time spikes and/or continuous cost increases
+- Monitor AWS services, member accounts, cost allocation tags, or cost categories
+- Sends you the anomaly detection report with root-cause analysis
+- Get notified with individual alerts or daily/weekly summary using [[SNS]]

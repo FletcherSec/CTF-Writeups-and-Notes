@@ -1,0 +1,4 @@
+- Ensures that only intended people have access to your [[S3]] buckets
+- Example: publicly accessible bucket, bucket shared with other AWS account...
+- Evaluates [[S3 Bucket Policies]], S3 ACLs, S3 Access Point Policies
+- Powered by [[IAM]] Access Analyzer

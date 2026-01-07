@@ -1,0 +1,19 @@
+- Single Region, Single AZ
+	- Not High Availability
+	- Bad Global Latency
+	- Low difficulty setup
+- Single Region, Multi AZ
+	- High Availability
+	- Bad Global Latency
+	- Moderate Difficulty setup
+- Multi Region, Active-Passive
+	- Active EC2 in one region and passive in another
+	- Active can read and write and replicates to passive
+	- Passive can serve reads but not writes
+	- better global reads but not writes
+	- Increased difficulty setup
+- Multi Region, Active-Active
+	- Like Active-Passive but both Region instances are active
+	- Both instances read and write\
+	- Better read write latency
+	- Harder setup

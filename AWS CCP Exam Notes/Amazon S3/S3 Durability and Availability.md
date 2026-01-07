@@ -1,0 +1,8 @@
+- Durability
+	- High Durability of objects across multiple AZ
+	- If you store 10,000,000 objects with Amazon S3, you can expect on average to incur a loss of a single object once every 10,000 years
+	- Same for all storage classes
+- Availability:
+	- Measures how readily available a service is
+	- Varies depending on storage class
+	- Example: S3 standard has 99.99% availability = not available 53 minutes a year

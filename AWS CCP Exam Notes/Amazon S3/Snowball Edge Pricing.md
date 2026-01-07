@@ -1,0 +1,12 @@
+- You pay for device usage and data transfer out of AWS
+- ==Data transfer IN to [[S3]] is free==
+
+- On-Demand
+	- Includes a one-time service fee per job, which includes:
+		- 10 days of usage for Snowball Edge Storage Optimized (80TB)
+		- 15 days of usage for the Snowball Edge Storage Optimized (210TB)
+	- Shipping days are NOT counted towards the 10 or 15 days
+	- Pay per day for any additional days
+- Committed Upfront
+	- Pay in advance for monthly, 1-year, and 3-years of usage (Edge Computing)
+	- Up to 62% discounted pricing

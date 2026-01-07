@@ -1,0 +1,8 @@
+- EC2 is one of the most popular of AWS' offerings
+- Elastic Compute Cloud = [[IaaS]]
+- Mainly consists in the capability of:
+	- Renting virtual machines (EC2)
+	- Storing data on virtual Drives ([[EBS]])
+	- Distributing load across machines ([[ELB]])
+	- Scaling the services using an auto-scaling group ([[Whats an Auto Scaling Group]])
+- Knowing EC2 is fundamental to understanding cloud

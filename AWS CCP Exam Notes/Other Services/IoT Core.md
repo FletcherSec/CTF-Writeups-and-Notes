@@ -1,0 +1,4 @@
+- AWS IoT Core allows you to easily connect IoT devices to the AWS Cloud
+- [[Serverless]], secure and scalable to billions of devices and trillions of messages
+- Integrates with many AWS services
+- Build IoT applications that gather, process, analyze, and act on data

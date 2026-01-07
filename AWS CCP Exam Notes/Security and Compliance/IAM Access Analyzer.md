@@ -1,0 +1,9 @@
+- Find out which resources are shared externally
+	- [[S3]] buckets
+	- [[IAM]] roles
+	- [[KMS]] keys
+	- [[Lambda]] Functions and Layers
+	- [[SQS]] queues
+	- [[Secrets Manager]] Secrets
+- Define [[Zone of Trust]] = AWS Account or AWS Organization
+- Access outside zone of trusts => findings

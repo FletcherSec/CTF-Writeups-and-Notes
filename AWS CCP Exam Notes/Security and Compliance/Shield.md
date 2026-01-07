@@ -1,0 +1,13 @@
+- AWS Shield Standard: protects against DDOS attacks for your website and applications, for all customers at no additional costs
+	- Free service that is activated for every AWS customer
+	- Provides protection from attacks such as SYN/UDP Floods, Reflection attacks and other layer 3 / layer 4 attacks
+- AWS Shield Advanced: 24/7 premium DDoS protection
+	- Optional DDoS mitigation service ($3k / month per organization)
+	- Protect against more sophisticated attacks on [[EC2]], [[ELB]], [[CloudFront]], [[Global Accelerator]], [[Route 53]]
+	- 24/7 access to AWS DDoS response team ([[DRP]])
+	- Protect against higher fees during usage spikes due to DDoS
+- AWS [[WAF]]: Filter specific requests based on rules
+- [[CloudFront]] and [[Route 53]]: 
+	- Availability protection using global edge network
+	- Combined with AWS [[Shield]], provides attack mitigation at the edge
+- Be ready to scale - leverage AWS [[ASG]]

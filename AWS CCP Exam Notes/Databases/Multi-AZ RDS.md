@@ -1,0 +1,4 @@
+- Failover in case of AZ outage (high availability)
+- if RDS is triggered, the failover DB (cloned from main) is used to support the app from a different AZ in the case that the main AZ fails
+- Data only read/write to the main database
+- Can only have 1 other AZ as failover

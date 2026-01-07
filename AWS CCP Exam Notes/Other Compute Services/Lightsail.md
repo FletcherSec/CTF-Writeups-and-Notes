@@ -1,0 +1,10 @@
+- Virtual servers, storage, databases, and networking
+- Low and predictable pricing
+- Simpler alternative to using [[EC2]], [[RDS]], [[ELB]], [[EBS]], [[Route 53]]...
+- Great for people with little cloud experience!
+- Can setup notification and monitoring of your Lightsail resources
+- Use cases:
+	- Simple webapps (has templates for LAMP, Nginx, MEAN, node.js)
+	- Websites (templates for WordPress, Magento, Plesk, Joomla)
+	- Dev / Test Environment
+- Has high availability but has no auto-scaling, limited AWS integrations

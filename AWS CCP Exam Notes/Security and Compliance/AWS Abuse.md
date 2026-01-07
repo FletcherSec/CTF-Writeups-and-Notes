@@ -1,0 +1,9 @@
+- Report suspected AWS resources used for abusive or illegal purposes
+- Abusive and prohibited behaviors are:
+	- Spam
+	- Port Scanning
+	- DoS or DDoS
+	- Intrusion attempts
+	- Hosting illegal or copyrighted content
+	- Distributing malware
+- Contact AWS Abuse team

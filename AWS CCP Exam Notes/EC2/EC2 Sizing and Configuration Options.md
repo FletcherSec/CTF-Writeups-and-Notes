@@ -1,0 +1,9 @@
+- OS: Linux, windows, macos
+- How much compute powers and cores (CPU)
+- How much RAM
+- How much Storage space:
+	- Network-attached ([[EBS]] and [[EFS]])
+	- Hardware ([[EC2 Instance Store]])
+- Network card: speed of the card, public IP
+- Firewall Rules: Security group
+- Bootstrap script (config on first launch): EC2 User Data

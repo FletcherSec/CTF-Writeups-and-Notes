@@ -1,0 +1,3 @@
+- When enabled, provides you with
+	- Combined Usage - combine the usage across all AWS accounts in the AWS [[Organizations]] to share the volume, pricing, [[Reserved Instance]]s and Saving Plans Discounts
+	- One bill - get one bill for all AWS Accounts in the AWS Organization

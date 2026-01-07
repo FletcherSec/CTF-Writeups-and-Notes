@@ -1,0 +1,33 @@
+##### The 7 Rs
+- Retire
+	- Turn off things you dont need
+	- Helps with reducing surface areas for attacks (more security)
+	- Save cost, maybe 10-20%
+	- Focus your attention on resources that must be maintained
+- Retain
+	- Do nothing for now (still a decision to make in Cloud Migration)
+	- Security, data compliance, performance, unresolved dependencies
+	- No business value to migrate, mainframe or midrange and non-x86 unix apps
+- Relocate
+	- Move apps from on-premises to its Cloud version
+	- Move [[EC2]] instances to a different [[VPC]], AWS account or AWS Region
+	- Example: transfer servers from VMware Software-defined Data Center ([[SSDC]]) to VMware Cloud on AWS
+- Rehost "lift and shift"
+	- Simple migrations by re-hosting on AWS (applications, databases, data...)
+	- Migrate machines (physical, virtual, another Cloud) to AWS Cloud
+	- No cloud optimizations being done, applications is migrates are migrated as is
+	- Could save up to 30% on cost
+	- Example: Migrate using AWS Application Migration Service
+- Replatform "lift and reshape"
+	- Ex: migrate your database to [[RDS]], migrate your app to [[Beanstalk]]
+	- Not changing core architecture, but leverage some Cloud optimizations
+	- Save time and money by moving to a fully managed service or [[Serverless]]
+- Repurchase "drop and shop"
+	- Moving to a different product while moving to the Cloud
+	- Often you move to a [[SaaS]] platform
+	- Expensive in short-term but quick to deploy
+	- Example: CRM to Salesforce.com, HR to Workday, CMS to Drupal
+- Refactor / re-architect
+	- Re-imagining how the application is architected using Cloud Native features
+	- Driven by the need of the business to add features and improve scalability, performance, security, and agility
+	- Move from a monolithic application to micro-services

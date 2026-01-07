@@ -1,0 +1,10 @@
+- [[Rekognition]]: face detection, labeling, celebrity recognition
+- [[Transcribe]]: audio to text
+- [[Polly]]: text to audio
+- [[Translate]]: translations
+- [[Lex and Connect]] build conversational bots, chatbots; Cloud contact center
+- [[Comprehend]]: natural language processing
+- [[SageMaker]] machine learning for every developer and data scientist
+- [[Kendra]]: ML-powered search engine
+- [[Personalize]]: real-time personalized recommendations
+- [[Textract]]: detect text and data in documents

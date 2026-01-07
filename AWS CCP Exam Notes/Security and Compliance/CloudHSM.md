@@ -1,0 +1,3 @@
+- [[KMS]] > AWS manages the software for encryption
+- [[CloudHSM]] > AWS provisions encryption hardware; manage keys yourself
+- HSM device is tamper resistant, FIPS 140-2 Level 3 compliance

@@ -1,0 +1,13 @@
+- Central security tool to manage security across several AWS accounts and automate security checks
+- Integrated dashboards showing current security and compliance status to quickly take actions
+- Automatically aggregates alerts in predefined or personal findings formats from various AWS services and AWS partner tools:
+	- [[Config]]
+	- [[GuardDuty]]
+	- [[Inspector]]
+	- [[Macie]]
+	- [[IAM Access Analyzer for S3]]
+	- AWS [[SSM]]
+	- AWS [[Firewall Manager]]
+	- AWS [[Health Dashboard]]
+	- AWS Partner Network Solutions
+- Must first enable the AWS [[Config]] service

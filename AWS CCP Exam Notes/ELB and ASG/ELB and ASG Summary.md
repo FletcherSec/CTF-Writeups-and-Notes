@@ -1,0 +1,9 @@
+- High Availability vs Scalability (vertical and horizontal) vs Elasticity vs Agility in the Cloud
+- [[ELB]]
+	- Distribute traffic across backend [[EC2]] instances, can be multi-AZ
+	- Supports health checks
+	- 4 Types: Classic (old), Application (HTTP - L7), Network (TCP - L4), Gateway (L3)
+- [[ASG]]
+	- Implement Elasticity for your application, across multiple AZ
+	- Scale EC2 instances based on the demand on your system, replace unhealthy
+	- Integrated with ELB

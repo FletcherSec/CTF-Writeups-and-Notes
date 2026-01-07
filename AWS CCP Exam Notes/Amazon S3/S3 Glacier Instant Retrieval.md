@@ -1,0 +1,4 @@
+- Low-cost object storage meant for archiving / backup
+- Pricing: price for storage + object retrieval cost
+- Millisecond retrieval, great for data accessed once a quarter
+- Minimum storage duration of 90 days

@@ -1,0 +1,5 @@
+- Serverless is a new paradigm where the developers don't manage the servers anymore
+- They just deploy functions!
+- Initially Serverless == [[FaaS]] (Function as a Service)
+- Serverless was pioneered by AWS [[Lambda]] but now also includes anything thats managed
+- [[S3]], [[DynamoDB]], [[Fargate]], [[Lambda]] are all serverless

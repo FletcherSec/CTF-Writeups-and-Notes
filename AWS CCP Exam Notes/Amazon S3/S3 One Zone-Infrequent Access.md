@@ -1,0 +1,3 @@
+- High durability (99.99999999%) in a single AZ; data lost when AZ is destroyed
+- 99.5% Availability
+- Use cases: Storing secondary backup copies of on-premise data, or data you can recreate

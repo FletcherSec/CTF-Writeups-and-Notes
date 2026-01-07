@@ -1,0 +1,4 @@
+- Make a [[DynamoDB]] table accessible with low latency in multiple regions
+- Allows users to read/write to databases in multiple AZs
+- This is called [[Active-Active]] replication (read/write to any AWS Region)
+- The databases in the separate AZ's have 2 way replication of each other

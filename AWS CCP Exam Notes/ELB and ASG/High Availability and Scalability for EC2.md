@@ -1,0 +1,5 @@
+- Vertical Scaling: Increase instance size (= scale up / down)
+- Horizontal Scaling: Increase number of instances (= scale out / in) with out meaning more
+	- Auto Scaling Group
+	- Load Balancer
+- High Availability

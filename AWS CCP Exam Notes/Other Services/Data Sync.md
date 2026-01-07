@@ -1,0 +1,4 @@
+- Move large amount of data from on-premises to AWS
+- Can sync to: [[S3]], [[EFS]], [[Amazon FSx - Overview]] for Windows
+- Replication tasks can be scheduled hourly, daily, weekly
+- The replication tasks are incremental after the first full load

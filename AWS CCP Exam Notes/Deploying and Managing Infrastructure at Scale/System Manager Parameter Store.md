@@ -1,0 +1,6 @@
+- Secure storage for configuration and secrets
+- API Keys, passwords, configurations
+- Serverless, scalable, durable, easy SDK
+- Control access permissions using [[IAM]]
+- Version tracking and encryption (optional)
+- can integrate with AWS [[KMS]]

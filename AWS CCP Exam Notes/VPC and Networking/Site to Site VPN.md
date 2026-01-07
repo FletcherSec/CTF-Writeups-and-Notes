@@ -1,0 +1,8 @@
+- Site to Site VPN
+	- Connect an on-premises VPN to AWS
+	- Connection is automatically encrypted
+	- Goes over public internet
+	- Used to connect Corporate Data Center to [[VPC]]
+- On-premises: must use a Customer Gateway ([[CGW]]) 
+- On AWS side: must use a Virtual Private Gateway ([[VGW]])
+- Connect the CGW and VGW with [[Site to Site VPN]]

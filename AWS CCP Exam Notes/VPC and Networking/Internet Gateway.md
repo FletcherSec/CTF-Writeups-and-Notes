@@ -1,0 +1,3 @@
+- Internet Gateways help our VPC instances connect with the internet
+- Public Subnets have a route to the internet gateway
+- [[NAT Gateway]]s (AWS managed) and [[NAT Instances]] (self managed) allow your instances in your private subnets to access the internet while remaining private

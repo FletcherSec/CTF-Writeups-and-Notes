@@ -1,0 +1,8 @@
+- High performance, single AZ storage class
+- Objects stored in a [[Directory Bucket]] (special bucket in a single AZ)
+- Can handle 100,000s requests per second with single-digit millisecond latency
+- Up to 10x better performance than [[S3 Standard - General Purpose]] (50% lower costs)
+- High durability (99.9999999%) and Availability (99.95%)
+- Co-locate your storage and compute resources in the same AZ (reduce latency)
+- Use cases: latency-sensitive apps, data-intensive apps, AI and ML training, financial modeling, media processing, [[HPC]]...
+- Best integrated with [[SageMaker Model Training]], [[Athena]], [[EMR]], [[Glue]]...

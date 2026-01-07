@@ -1,0 +1,14 @@
+- Use cost allocation tags to track your AWS costs on a detailed level
+- AWS generated tags
+	- Auto applied to the resource you create
+	- Starts with prefix aws:
+- User-defined tags
+	- Defined by the user
+	- Starts with prefix user:
+- Tags are used for organizing resources
+	- [[EC2]]
+	- [[RDS]], [[VPC]], [[Route 53]], [[IAM]] users, etc...
+	- Resources created by [[CloudFormation]] are all tagged the same way
+- Tags can be used to create [[Resource Groups]]
+	- Create, maintain, and view a collection of resources that share common tags
+	- Manage these tags using the [[Tag Editor]]

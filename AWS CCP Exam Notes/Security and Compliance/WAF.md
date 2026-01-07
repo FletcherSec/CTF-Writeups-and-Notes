@@ -1,0 +1,8 @@
+- Protects your web applications from common web exploits (Layer 7)
+- Layer 7 is HTTP (vs Layer 4 is TCP)
+- Deploy on [[ALB]], [[API Gateway]], [[CloudFront]]
+- Define Web ACL
+	- Rules can include IP addresses, HTTP headers, HTTP body, or URI strings
+	- Protect from common attacks - SQL injection and Cross-site Scripting (XSS)
+	- Size constraints, geo-match (block countries)
+	- Rate-based rules (to count occurrences of events) - for DDoS protection

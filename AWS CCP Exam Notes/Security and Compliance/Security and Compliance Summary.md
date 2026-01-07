@@ -1,0 +1,23 @@
+- [[Shared Responsibility Model]]
+- [[Shield]]: Auto DDoS protection + 24/7 support for advanced
+- [[WAF]]: Firewall to filter incoming requests based on rules
+- [[KMS]]: Encryption keys managed by AWS
+- [[CloudHSM]]: Hardware encryption, we manage encryption keys
+- AWS [[ACM]]: provision, manage, and deploy SSL/TLS certificates
+- [[Artifact]]: Get access to compliance reports such as PIC, ISO, etc.
+- [[GuardDuty]]: Find malicious behavior with [[VPC]], [[DNS]], and [[CloudTrail]] Logs
+- [[Inspector]]: find software vulnerabilities in [[EC2]], [[ECR]] Images, and [[Lambda]] function
+- [[Network Firewall]]: Protect [[VPC]] against network attacks
+- [[Config]]: Track config changes and compliance against rules
+- [[Macie]]: Find sensitive data (ex. PII data) in [[S3]] buckets
+- [[CloudTrail]]: Track API calls made by users within account
+- AWS [[Security Hub]]: gather security findings from multiple AWS accounts
+- Amazon [[Detective]]: find the root cause of security issues or suspicious activities
+- [[AWS Abuse]]: Resources used for abusive or illegal purposes
+- [[Root User Privileges]]:
+	- Change account settings
+	- Close your AWS account
+	- Change or cancel your AWS Support Plan
+	- Register as a seller in the Reserved Instance Marketplace
+- [[IAM Access Analyzer]]: identify which resources are shared externally
+- [[Firewall Manager]]: manage security rules across an organization ([[WAF]], [[Shield]], ....)

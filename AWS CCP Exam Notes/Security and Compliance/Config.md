@@ -1,0 +1,13 @@
+- Helps with auditing and recording compliance of your AWS resources
+- Helps record configurations and changes over time
+- Possibility of storing the configuration data into [[S3]] (analyzed by [[Athena]])
+- Questions that can be solved by AWS Config:
+	- Is there unrestricted SSH access to my security groups?
+	- Do my buckets have any public access?
+	- How has my [[ALB]] configuration changed over time?
+- You can receive alerts ([[SNS]] notifs) for any changes
+- AWS Config is a per-region service
+- Can be aggregated across regions and accounts
+- View compliance of a resource over time
+- View configuration of a resource over time
+- View [[CloudTrail]] API calls if enabled

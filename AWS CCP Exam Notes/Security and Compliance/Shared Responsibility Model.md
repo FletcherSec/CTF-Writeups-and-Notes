@@ -1,0 +1,8 @@
+- AWS responsibility - Security of the Cloud
+	- Protecting infrastructure (hardware, software, facilities, and networking) that runs all the AWS services
+	- Managed services like [[S3]], [[DynamoDB]], [[RDS]], etc.
+- Customer responsibility - Security in the cloud
+	- For [[EC2]] instance, customer is responsible for management of the guest OS (including security patches and updates), firewall and network configuration [[IAM]]
+	- Encrypting application data
+- Shared controls
+	- Patch Management, Configuration Management, Awareness and Training

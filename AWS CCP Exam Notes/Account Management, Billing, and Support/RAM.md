@@ -1,0 +1,5 @@
+- Resource Access Manager
+- Share AWS resources that you own with other AWS Accounts
+- Share with any account or within your Organization
+- Avoid resource duplication!
+- Supported resources include [[Aurora]], [[VPC]] subnets, [[Transit Gateway]], [[Route 53]], [[EC2]] dedicated hosts, License Manager Configurations...

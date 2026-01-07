@@ -1,0 +1,3 @@
+- A set of tools and services that help you develop and deploy scalable full stack web and mobile applications
+- Authentication, Storage, API. (REST, [[GraphQL]]), CI/CD, PubSub, Analytics, AI/ML predictions, monitoring, source code from AWS, Github, etc...
+- Wrapper of AWS services for making mobile apps

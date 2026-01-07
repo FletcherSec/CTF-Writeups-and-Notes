@@ -1,0 +1,7 @@
+- Low-cost object storage meant for archiving / backup
+- Pricing: price for storage + object retrieval cost
+- Data retrieval options: 
+	- Expedited (1 to 5 minutes)
+	- Standard (3 to 5 hours)
+	- Bulk (5 to 12 hours) - free
+- Minimum storage duration of 90 days

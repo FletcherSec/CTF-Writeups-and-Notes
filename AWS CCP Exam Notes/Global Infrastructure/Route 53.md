@@ -1,0 +1,23 @@
+- Route 53 is a Managed [[DNS]] (Domain Name System)
+- In AWS the most common records are:
+	- [[A]] record (IPv4)
+	- [[AAAA]] (IPv6)
+	- [[CNAME]] (hostname to hostname)
+	- example.com > AWS resource [[Alias]] (ex. ELB, CloudFront, S3, RDS, etc)
+- Features:
+	- Domain Registration
+	- DNS
+	- Health Checks
+	- Routing Policy
+
+##### Routing Policies
+- Need to know them at a high-level for the exam
+- Simple Routing Policy
+	- No health checks
+- Weighted Routing Policy
+	- Essentially load balancing from Route 53 to the IPs for intended instance load
+- Latency Routing Policy
+	- Finds distance of user from available servers and sends them the IP for the one which will provide them the lowest latency
+- Failover Routing Policy
+	- Health checks primary
+	- Redirects to failover if health check fails

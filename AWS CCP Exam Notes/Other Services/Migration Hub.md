@@ -1,0 +1,4 @@
+- Central location to collect servers and applications inventory data for assessment, planning, and tracking of migrations to AWS
+- Helps accelerate your migration to AWS, automate lift-and-shift
+- [[AWS Migration Hub Orchestrator]] - provides pre-built templates to save time and effort migrating enterprise apps
+- Supports migration status updates from [[MGN]] and [[DMS]] 

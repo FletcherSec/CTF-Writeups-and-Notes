@@ -1,0 +1,7 @@
+- Create budget and send alarms when costs exceeds the budget
+- 4 types: Usage, Cost, Reservation, Savings Plans
+- For [[Reserved Instance]]
+	- Track utilization
+	- Supports [[EC2]], [[ElastiCache]], [[RDS]], [[Redshift]]
+- Up to 5 [[SNS]] notifications per budget
+- Can filter by: Service, Linked Account, Tag, Purchase Option, Instance Type, Region, Availability Zone, API operation, etc.

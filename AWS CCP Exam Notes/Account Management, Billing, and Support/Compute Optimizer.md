@@ -1,0 +1,10 @@
+- Reduces costs and improve performance by recommending optimal AWS resources for your workloads
+- Helps you choose optimal configurations and [[Right Sizing]] your workloads 
+- Uses ML to analyze your resources' configurations and their utilization [[CloudWatch]] metrics
+- Supported resources:
+	- [[EC2]] instances
+	- [[EC2]] [[ASG]]
+	- [[EBS]] volumes
+	- [[Lambda]] functions
+- Lower your costs by up to 25%
+- Recommendations can be exported into [[S3]]

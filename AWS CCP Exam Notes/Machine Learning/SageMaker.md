@@ -1,0 +1,7 @@
+- Fully managed service for developer / data scientists to build ML models
+- Typically difficult to do all processes in one place + provision servers
+- ML process (simplified): predicting your exam score
+	- Gather historical data
+	- Label data and assign scores
+	- Build ML model to predict scores from data
+	- Train and Tune model

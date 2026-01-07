@@ -1,0 +1,3 @@
+- Found on any Windows Server with AD Domain Services
+- Database of objects: User Accounts, Computers, Printers, File Shares, Security Groups
+- Centralized security management, create accounts, assign permissions

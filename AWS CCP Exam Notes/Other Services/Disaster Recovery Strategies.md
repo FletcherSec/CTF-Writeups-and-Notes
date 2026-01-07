@@ -1,0 +1,5 @@
+- Backup and Restore
+- Pilot Light
+- Warm Standby
+- Multi-Site / Hot-site
+- Cheapest to most expensive respectively

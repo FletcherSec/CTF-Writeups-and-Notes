@@ -1,0 +1,11 @@
+- Service Control Policies
+- Whitelist or blacklist [[IAM]]s
+- Applied at OU or Account level
+- Does not apply to the Master Account
+- SCP is applied to all the Users and Roles of the Account, including Root
+- The SCP does not affect service-linked roles
+	- Service-linked roles enable other AWS services to integrate with AWS Organizations and can't be restricted by SCPs
+- SCP must have an explicit Allow (does nothing by default)
+- Use cases:
+	- Restrict access to certain services
+	- Enforce [[PCI]] compliance by explicitly disabling services

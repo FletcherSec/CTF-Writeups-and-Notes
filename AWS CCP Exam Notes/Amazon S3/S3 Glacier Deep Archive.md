@@ -1,0 +1,7 @@
+- Low-cost object storage meant for archiving / backup
+- Pricing: price for storage + object retrieval cost
+- Data access:
+	- Standard (12 hours)
+	- Bulk (48 hours)
+- Lowest Cost
+- Minimum storage duration of 180 days

@@ -1,0 +1,6 @@
+- Allows you to start a secure shell on your [[EC2]] and on-premises servers
+- No SSH access, bastion hosts, or SSH keys needed
+- No port 22 needed (better security)
+- User issues commands to the agent via Session Manager service with [[IAM]] permissions
+- supports Linux, MacOS, and Windows
+- Send session log data to [[S3]] or [[CloudWatch]] logs

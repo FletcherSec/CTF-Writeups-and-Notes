@@ -1,0 +1,6 @@
+- Visualize, understand, and manage your AWS costs and usage over time
+- Create custom reports that analyze cost and usage data
+- Analyze your data at a high level: total costs and usage across all accounts
+- Or monthly, hourly, resource level granularity
+- Choose an optimal savings plan (to lower prices on your bill)
+- ==Forecast up to 12 months based on previous usage==

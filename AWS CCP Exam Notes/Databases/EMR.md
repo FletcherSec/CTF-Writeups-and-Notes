@@ -1,0 +1,7 @@
+- Stands for "Elastic MapReduce"
+- EMR helps with creating [[Hadoop clusters]] (Big Data) to analyze and process vast amounts of data
+- These clusters can be made of hundreds of [[EC2]] instances
+- Also supports Apache Spark, HBASE, Presto, Flink
+- EMR takes care of provisioning and configuration for all these instances
+- Auto-scaling and integrated with [[Spot]] instances
+- Use cases: data processing, machine learning, web indexing, big data....

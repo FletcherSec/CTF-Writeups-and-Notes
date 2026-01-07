@@ -1,0 +1,4 @@
+- Connect two VPC, privately using AWS' network
+- Make them behave if they were in the same network
+- Must not have overlapping CIDR
+- VPC Peering connection is not transitive (must be established for each VPC that need to communicate with each other)

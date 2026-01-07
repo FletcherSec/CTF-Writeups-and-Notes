@@ -1,0 +1,4 @@
+- Dive deeper into your AWS costs and usage
+- The AWS cost and Usage report contains the most comprehensive set of AWS cost and usage data available, including additional metadata about AWS services, pricing, and reservations ([[EC2]] [[Reserved Instance]]s)
+- The AWS cost and usage report lists AWS usage for each service category used by an account and its [[IAM]] users in hourly or daily line items, as well as any tags that you have activated for cost allocation purposes
+- Can be integrated with [[Athena]], [[Redshift]], or [[Quicksight]]

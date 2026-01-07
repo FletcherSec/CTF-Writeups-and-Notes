@@ -1,0 +1,14 @@
+- One of the main building blocks of AWS
+- Advertised as "infinitely scaling" storage
+- Many websites use Amazon [[S3]] as a backbone
+- Many AWS services use Amazon S3 as an integration as well
+##### Use cases:
+- Backup and storage
+- Disaster recovery
+- Archive
+- Hybrid Cloud storage
+- Application hosting
+- Media hosting
+- Data lakes and Big Data Analytics
+- Software delivery
+- Static website

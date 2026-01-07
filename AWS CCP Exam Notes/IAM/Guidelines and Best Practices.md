@@ -1,0 +1,9 @@
+- Don't use the root account except for AWS account setup
+- One physical user = One AWS user
+- assign users to groups and assign permissions to groups
+- Create a strong password policy
+- Use and enforce the use of Multi factor Authentication
+- Create and use Roles for giving permissions to AWS services
+- use [[Access Keys for Programmatic Access]] (CLI/SDK)
+- Audit permissions of your account using IAM Credentials Report and IAM Access Advisor
+- Never share IAM users and Access Keys

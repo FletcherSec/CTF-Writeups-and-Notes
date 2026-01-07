@@ -1,0 +1,7 @@
+- Digital catalog with thousands of software listings from independent software vendors (3rd party)
+- Can buy/sell:
+	- Custom [[AMI]]
+	- [[CloudFormation]] templates
+	- [[SaaS]]
+	- Containers
+- If you buy through Marketplace, it goes into your AWS bill

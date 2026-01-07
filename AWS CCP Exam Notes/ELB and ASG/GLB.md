@@ -1,0 +1,4 @@
+- GENEVE Protocol on IP packets (layer 3)
+- Route traffic to firewalls that you manage on [[EC2]] Instances
+- Intrusion detection / Deep packet inspection
+- Routes to "3rd party security virtual appliances"

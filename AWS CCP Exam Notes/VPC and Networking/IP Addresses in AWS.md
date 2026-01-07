@@ -1,0 +1,10 @@
+- IPv4: 4.3 bill addresses
+	- Public IPv4 - can be used on the internet
+	- [[EC2]] instance gets a new public IP address every time you stop then start it (default)
+	- Private IPv4 - can be used on private networks (LAN) such as internal AWS networking
+	- Private IPv4 is fixed for [[EC2]] instances even if you start/stop them
+- [[Elastic IP]]: allows you to attach a fixed public IPv4 address to an [[EC2]] instance
+- All public IPv4 on AWS will be charged $0.005 per hour (including EIP)
+- IPv6 - 3.4 * 10^38 addresses
+	- Every IP address is public in AWS (no private range)
+	- Free

@@ -1,0 +1,4 @@
+- AWS managed QA service offering crowd-sourced, expert-reviewed answers to your technical questions about AWS that replaces the original AWS Forums
+- Community members earn reputation points to build up their community expert status by providing accepted answers and reviewing answers from other users
+- Questions from AWS Premium Support customers that do not receive a response from the community are passed on to AWS Support engineers
+- rePost is not intended to be used for questions that time-sensitive or involve any proprietary information

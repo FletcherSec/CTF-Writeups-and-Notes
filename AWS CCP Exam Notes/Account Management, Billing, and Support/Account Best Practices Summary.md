@@ -1,0 +1,12 @@
+- Operate multiple accounts using [[Organizations]]
+- Use [[SCP]] to restrict account power
+- Easily setup multiple accounts with best-practices using [[Control Tower]]
+- Use [[Cost Allocation Tags]] for easy management and billing
+- [[IAM]] guidelines: [[MFA Device Options]], [[Least Privilege Principle]], password policy, password rotation
+- [[Config]] to record all resources configurations and compliance over time
+- [[CloudFormation]] to deploy stacks across accounts and regions
+- [[Trusted Advisor]] to get insights, support plan adapted to your needs
+- Send service logs and access logs to [[S3]] or [[CloudWatch Logs]]
+- [[CloudTrail]] to record API calls made within your account
+- If account is compromised: change the root password, delete and rotate all passwords / keys, contact AWS support
+- Allow users to create predefined stacks defined by admins using AWS [[Service Catalog]]

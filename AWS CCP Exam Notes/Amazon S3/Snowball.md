@@ -1,0 +1,12 @@
+- Highly-secure, portable devices to collect and process data at the edge, and migrate data into and out of AWS
+- Helps mitigate up to Petabytes of data
+- Storage Use Case:
+	- Physical device which is used to transfer large amounts of data to avoid the latency of network bottlenecks
+- Edge Computing Use Case:
+	- Process data while it's being created on an edge location
+		- Like a truck on the road, ship on the sea, mining station underground
+	- These locations may have limited to no access to the internet and no access to computing power
+	- We setup a [[Snowball Edge]] device to do edge computing
+		- Snowball Edge Compute Optimized (dedicated for that use case) and Storage Optimized
+		- Run [[EC2]] Instances or [[Lambda]] functions at the edge
+	- Use cases: preprocess data, ML, transcoding media

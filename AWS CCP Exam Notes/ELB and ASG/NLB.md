@@ -1,0 +1,3 @@
+- TCP / UDP protocol (Layer 4)
+- High performance: millions of requests per second
+- Static IP through [[Elastic IP]]

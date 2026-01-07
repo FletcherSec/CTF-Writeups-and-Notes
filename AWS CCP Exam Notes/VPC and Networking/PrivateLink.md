@@ -1,0 +1,5 @@
+- Most secure and scalable way to expose a service to 1000s of VPCs
+- Used for scaling VPC Endpoints
+- Does not require [[VPC Peering]], [[Internet Gateway]], [[NAT]], [[Route Tables]]...
+- Requires a [[NLB]] (Service VPC) and [[ENI]] (Customer VPC)
+- For each new customer, just need to make a new private link

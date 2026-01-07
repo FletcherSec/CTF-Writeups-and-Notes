@@ -1,0 +1,5 @@
+- Multi-Region ([[Read Replicas]])
+- Read replica occupies a different AZ than the main and is used to read from the application in the other AZ (this other region app must still write to the main DB though across region)
+- Disaster recovery strategy
+- Better local performance for global reads
+- Replication cost

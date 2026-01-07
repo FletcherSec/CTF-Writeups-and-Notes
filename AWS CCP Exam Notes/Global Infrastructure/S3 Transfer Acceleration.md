@@ -1,0 +1,3 @@
+- Increase transfer speed by transferring file to an AWS edge location which will forward the data to the [[S3]] bucket in the target region
+- File in USA sent to Edge Location in USA which sends it to S3 Bucket in Australia
+- Only used when downloading or uploading a file in an S3 Bucket far away

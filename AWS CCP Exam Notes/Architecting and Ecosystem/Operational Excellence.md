@@ -1,0 +1,13 @@
+- Includes the ability to run and monitor systems to deliver business value and to continually improve supporting processes and procedures
+- Design Principles
+	- Perform operations as code - [[IaaS]]
+	- Make frequent, small, reversible changes - makes reversing easier
+	- Refine operation procedures frequently - Ensure team members are familiar with it
+	- Anticipate failure
+	- Learn from all operational failures
+	- Use managed services - to reduce operational burden
+	- Implement observability for actionable insights - performance, reliability, cost...
+##### AWS Services
+- Prepare: [[CloudFormation]], [[Config]]
+- Operate: [[CloudFormation]], [[Config]], [[CloudTrail]], [[CloudWatch]], [[X-Ray]]
+- Evolve: [[CloudFormation]], [[CodeBuild]], CodeCommit, [[CodeDeploy]], CodePipeline

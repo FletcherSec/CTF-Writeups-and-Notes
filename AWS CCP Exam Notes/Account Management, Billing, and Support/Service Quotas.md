@@ -1,0 +1,4 @@
+- Notify you when you're close to a service quota value threshold
+- Create [[CloudWatch]] alarms on the service quotas console
+- Ex: [[Lambda]] concurrent executions
+- Request a quota increase from AWS Service Quotas or shutdown resources before limit is reached
